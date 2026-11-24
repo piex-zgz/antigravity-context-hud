@@ -1,0 +1,18 @@
+{
+  "name": "context-hud",
+  "displayName": "Context HUD",
+  "version": "0.1.0",
+  "description": "Live context fill gauge, health monitor, one-click deterministic handoff export, and cross-session Trace MRI diagnostics in Antigravity's side pane.",
+  "logo": "assets/logo.svg",
+  "author": {
+    "name": "piex-zgz",
+    "url": "https://github.com/piex-zgz"
+  },
+  "homepage": "https://github.com/piex-zgz/antigravity-context-hud",
+  "repository": "https://github.com/piex-zgz/antigravity-context-hud",
+  "suggestedPrompts": [
+    "Open the Context HUD side pane to inspect live context fill and health",
+    "Review my recent Trace MRI friction patterns and rework hotspots",
+    "Export a clean session handoff packet before switching to a fresh conversation"
+  ]
+}
